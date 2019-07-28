@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "2510 Regent Street",
+        "OWNER_NAME": "Elise Xu",
+        "CONTACT": "elisexu@berkeley.edu"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.258011, 37.864871]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "2520 Channing Way",
+        "OWNER_NAME": "Parth Shah",
+        "CONTACT": "parth.shah@berkeley.edu"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.257609, 37.866762]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "2601 Channing Way",
+        "OWNER_NAME": "Felicia Lin",
+        "CONTACT": "fjlin@berkeley.edu"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.256291, 37.867524]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "2520 Hillegass Avenue",
+        "OWNER_NAME": "Matt Jeng",
+        "CONTACT": "mjeng@berkeley.edu"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.25666, 37.864633]
+      }
+    }
+
+
+    
+  ]
+}

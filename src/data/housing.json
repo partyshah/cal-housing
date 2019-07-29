@@ -59,6 +59,20 @@
         "type": "Point",
         "coordinates": [-122.25666, 37.864633]
       }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "ADDRESS": "2510 Regent Street",
+        "OWNER_NAME": "Mimi Shalf",
+        "CONTACT": "elisexu@berkeley.edu"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.258013, 37.864873]
+      }
     }
 
 
